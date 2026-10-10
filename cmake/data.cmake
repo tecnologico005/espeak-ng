@@ -23,6 +23,7 @@ list(APPEND _dict_compile_list
   vi
   xex
   yue
+gzh
 )
 
 list(APPEND _mbrola_lang_list
